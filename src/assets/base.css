@@ -11,10 +11,12 @@
   --color-black-mute: #282828;
 
   /* Brand */
-  --color-primary: #6366f1;
-  --color-primary-hover: #4f46e5;
+  --color-primary: #f97316;
+  --color-primary-hover: #ea6c0a;
+  --color-secondary: #f59e0b;
+  --color-secondary-hover: #d97706;
 
-  /* Semantic — direct values, no var() */
+  /* Semantic */
   --color-background: #ffffff;
   --color-background-soft: #f8f8f8;
   --color-background-mute: #f2f2f2;
@@ -22,9 +24,9 @@
   --color-border: rgba(60, 60, 60, 0.12);
   --color-border-hover: rgba(60, 60, 60, 0.29);
 
-  --color-heading: #2c3e50;
-  --color-text: #2c3e50;
-  --color-text-muted: rgba(60, 60, 60, 0.66);
+  --color-heading: #0d1b4b;
+  --color-text: #1e2a4a;
+  --color-text-muted: rgba(13, 27, 75, 0.6);
 
   --font-sans:
     'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
